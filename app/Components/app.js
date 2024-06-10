@@ -2,14 +2,14 @@
  
 import Cards from '@/app/cards';
 // import About from '../about';
-// import Hero from '../hero';
+import Hero from '../hero';
 
 
 function App() {
     return (
         
         <>
-  {/* <Hero /> */}
+  <Hero />
     <Cards/>
     
     

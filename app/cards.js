@@ -7,11 +7,11 @@ function Cards(props) {
       <>
         <div className="container mt-4 pl-10">
           <div className="row">
-            {data.map((card) => (
-                  <div class="card" style={{width:"18rem"}} >
-                  <Image  src={card.img} class="card-img-top" alt="..." style={{marginTop:"6px",height:"200px"}} />
+            {data.map((card, index) => (
+                  <div className="card" key={index} style={{width:"18rem"}} >
+                  <Image  src={card.img} className="card-img-top" alt="..." style={{marginTop:"6px",height:"200px"}} />
                   {/* <Image src={imgg} alt="this is actual image" /> */}
-                  <div class="card-body">
+                  <div className="card-body">
                     
                    
                   </div>
