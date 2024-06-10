@@ -4,7 +4,7 @@ import img1 from "./Products/img_1.jpg";
 import img2 from "./Products/img_2.jpg";
 import img3 from "./Products/img_3.jpg";
 import img4 from "./Products/img_4.jpg";
-import img5 from "./Products/img_5.jpg";
+// import img5 from "./Products/img_5.jpg";
 import img6 from "./Products/img_6.png";
 import img7 from "./Products/img_7.png";
 import img8 from "./Products/img_8.jpg";
@@ -44,8 +44,8 @@ import img41 from "./Products/img_41.png";
 import img42 from "./Products/img_42.jpg";
 import img43 from "./Products/img_43.jpg";
 import img44 from "./Products/img_44.png";
-import img45 from "./Products/img_45.png";
-import img46 from "./Products/img_46.png";
+ 
+// import img46 from "./Products/img_46.png";
 import img47 from "./Products/img_47.png";
 import img48 from "./Products/img_48.png";
 import img49 from "./Products/img_49.png";
@@ -54,7 +54,7 @@ import img51 from "./Products/img_51.png";
 import img52 from "./Products/img_52.png";
 import img53 from "./Products/img_53.png";
 import img54 from "./Products/img_54.jpg";
-import img55 from "./Products/img_55.jpg";
+// import img55 from "./Products/img_55.jpg";
 import img56 from "./Products/img_56.jpg";
 import img57 from "./Products/img_57.png";
 import img58 from "./Products/img_58.png";
@@ -68,13 +68,7 @@ import img65 from "./Products/img_65.png";
 import img66 from "./Products/img_66.png";
 import img67 from "./Products/img_67.png";
 import img68 from "./Products/img_68.png";
-// import img69 from "./Products/img_69.png";
-// import img70 from "./Products/img_70.png";
-// import img71 from "./Products/img_71.png";
-// import img72 from "./Products/img_72.png";
-// import img73 from "./Products/img_73.png";
-// import img74 from "./Products/img_74.jpg";
-// import img75 from "./Products/img_75.jpg";
+ 
 import img76 from "./Products/img_76.jpg";
 import img77 from "./Products/img_77.jpg";
 import img78 from "./Products/img_78.jpg";
@@ -87,7 +81,7 @@ import img84 from "./Products/img_84.jpg";
 import img85 from "./Products/img_85.jpg";
 import img86 from "./Products/img_86.png";
 import img87 from "./Products/img_87.png";
-import img88 from "./Products/img_88.png";
+// import img88 from "./Products/img_88.png";
 import img89 from "./Products/img_89.png";
 import img90 from "./Products/img_90.png";
 import img91 from "./Products/img_91.jpg";
@@ -128,7 +122,7 @@ let data = [
   { id: 2, img: img2 },
   { id: 3, img: img3 },
   { id: 4, img: img4 },
-  { id: 5, img: img5 },
+  // { id: 5, img: img5 },
   { id: 6, img: img6 },
   { id: 7, img: img7 },
   { id: 8, img: img8 },
@@ -168,8 +162,8 @@ let data = [
   { id: 42, img: img42 },
   { id: 43, img: img43 },
   { id: 44, img: img44 },
-  { id: 45, img: img45 },
-  { id: 46, img: img46 },
+  
+ 
   { id: 47, img: img47 },
   { id: 48, img: img48 },
   { id: 49, img: img49 },
@@ -178,7 +172,7 @@ let data = [
   { id: 52, img: img52 },
   { id: 53, img: img53 },
   { id: 54, img: img54 },
-  { id: 55, img: img55 },
+  
   { id: 56, img: img56 },
   { id: 57, img: img57 },
   { id: 58, img: img58 },
@@ -192,13 +186,7 @@ let data = [
   { id: 66, img: img66 },
   { id: 67, img: img67 },
   { id: 68, img: img68 },
-  // { id: 69, img: img69 },
-  // { id: 70, img: img70 },
-  // { id: 71, img: img71 },
-  // { id: 72, img: img72 },
-  // { id: 73, img: img73 },
-  // { id: 74, img: img74 },
-  // { id: 75, img: img75 },
+ 
   { id: 76, img: img76 },
   { id: 77, img: img77 },
   { id: 78, img: img78 },
@@ -211,7 +199,7 @@ let data = [
   { id: 85, img: img85 },
   { id: 86, img: img86 },
   { id: 87, img: img87 },
-  { id: 88, img: img88 },
+ 
   { id: 89, img: img89 },
   { id: 90, img: img90 },
   { id: 91, img: img91 },
