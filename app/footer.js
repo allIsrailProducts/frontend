@@ -7,7 +7,7 @@ function Footer() {
       
           
       
-          <p> if you want to contribute visit here <a href="" style={{color:"red"}}>GITHUB</a></p>
+          <p> if you want to contribute visit here <a href="https://github.com/allIsrailProducts/frontend" target="_blank" style={{color:"red"}}>GITHUB</a></p>
         </footer>
       </div>
     </> 
