@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# All Israel Products  [allisrailproducts.com](https://www.allisrailproducts.com/).
+
+## Overview
+
+**All Israel Products** is a web application dedicated to informing and educating people about products manufactured or produced in Israel. The platform aims to support the Boycott, Divestment, Sanctions (BDS) movement by providing a comprehensive database of these products, thereby encouraging individuals to make informed purchasing decisions in solidarity with Palestine.
+
+## Features
+
+- **Product Database**: A comprehensive list of products made in Israel, categorized by type and brand.
+ 
+- **Educational Resources**: Articles, news, and resources about the BDS movement and the impact of supporting Palestinian rights.
+- **Mobile Friendly**: Fully responsive design to ensure accessibility on all devices.
 
 ## Getting Started
 
-First, run the development server:
+ 
+### Accessing the Web App
+
+1. Open your preferred web browser.
+2. Navigate to [allisrailproducts.com](https://www.allisrailproducts.com/).
+ 
+
+## Contribution
+
+We welcome contributions from the community to help improve and expand the database. Here’s how you can contribute:
+
+1. **Report New Products**: If you know of a product not listed, please add the product and raise the PR.
+ 
+3. **Provide Feedback**: Help us improve the platform by providing feedback and suggestions.
+
+### How to Contribute
+
+1. Fork the repository on GitHub.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request on GitHub.
+
+ 
+
+---
+
+By using this platform, you agree to support the principles and objectives of the BDS movement, aimed at ending international support for Israel's oppression of Palestinians and pressuring Israel to comply with international law.
+
+
+## Setting up allisrailproducts.com locally into you machine
+
+### Forking a Repository
+
+1. Go to the following repository:[allisrailproducts Repository](https://github.com/allIsrailProducts/frontend).
+2. Click on the "Fork" button on the top right corner to fork the repository to your GitHub account.
+
+### Clone the Repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/allIsrailProducts/frontend.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### move inside the Directory
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+cd frontend
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Install the dependencies
 
-## Learn More
+```
+npm install
+```
 
-To learn more about Next.js, take a look at the following resources:
+### 2.Run the application using 
+```
+npm run dev
+```
+ 
+## Contact
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you have any questions, issues, or suggestions, please contact us at allisrailproducts@gmail.com.
+ 
