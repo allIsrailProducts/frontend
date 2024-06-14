@@ -12,6 +12,7 @@ function Cards(props) {
                   <Image  src={card.img} className="card-img-top" alt="..." style={{marginTop:"6px",height:"200px"}} />
                   {/* <Image src={imgg} alt="this is actual image" /> */}
                   <div className="card-body">
+                    <h3><div className='card-title'>{card.product}</div></h3>
                     
                    
                   </div>
