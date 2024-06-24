@@ -17,7 +17,7 @@ function NavScrollExample() {
               Home
             </Navbar.Brand>
 
-            <Link href="/about">
+            <Link href="/About">
               <Navbar.Brand className="navbar">About</Navbar.Brand>
             </Link>
           </Nav>
