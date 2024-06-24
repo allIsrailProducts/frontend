@@ -5,13 +5,14 @@ import Cards from "@/app/cards";
 import Hero from "../hero";
 import Footer from "../footer";
 import Searchbar from "./searchbar";
-
+import Navbar from "./navbar";
+ 
 function App() {
   return (
     <>
+    <Navbar />
       <Hero />
       <Searchbar />
-      {/* <Cards /> */}
       <Footer />
     </>
   );
